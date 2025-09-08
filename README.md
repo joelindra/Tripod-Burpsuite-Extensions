@@ -45,10 +45,10 @@ To compile and run this Burp Suite extension, you need:
 - **Third-Party Libraries**:
   - `jackson-core-2.12.7.jar`
   - `jackson-annotations-2.12.7.jar`
-  - `jackson-databind-2.12.7.1.jar` (for advanced JSON processing)
-  - `jjwt-api-0.12.5.jar` & `jjwt-impl-0.12.5.jar` (for JSON Web Tokens, likely for planned features)
-  - `gson.jar` (for JSON processing, redundant with Jackson)
-  - `flexmark-all-0.64.8.jar` (for Markdown processing, unlikely needed for core functionality)
+  - `jackson-databind-2.12.7.1.jar`
+  - `jjwt-api-0.12.5.jar` & `jjwt-impl-0.12.5.jar`
+  - `gson.jar`
+  - `flexmark-all-0.64.8.jar`
 
 ## Installation
 
